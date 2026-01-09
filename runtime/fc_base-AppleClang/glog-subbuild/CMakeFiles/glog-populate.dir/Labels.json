@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/CMakeFiles/glog-populate"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/CMakeFiles/glog-populate.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/CMakeFiles/glog-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-build.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-download.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-install.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-test.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"glog-populate"
+		],
+		"name" : "glog-populate"
+	}
+}

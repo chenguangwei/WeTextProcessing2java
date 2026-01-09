@@ -1,0 +1,14 @@
+# Target labels
+ openfst-populate
+# Source files and their labels
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/openfst-populate
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/openfst-populate.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/openfst-populate-complete.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-build.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-configure.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-download.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-install.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-mkdir.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-patch.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-test.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-update.rule

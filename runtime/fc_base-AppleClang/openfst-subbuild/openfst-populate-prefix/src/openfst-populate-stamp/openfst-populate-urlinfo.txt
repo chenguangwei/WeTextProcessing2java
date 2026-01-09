@@ -1,0 +1,12 @@
+# This is a generated file and its contents are an internal implementation detail.
+# The download step will be re-executed if anything in this file changes.
+# No other meaning or use of this file is supported.
+
+method=url
+command=/opt/homebrew/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/download-openfst-populate.cmake;COMMAND;/opt/homebrew/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/verify-openfst-populate.cmake;COMMAND;/opt/homebrew/bin/cmake;-DCMAKE_MESSAGE_LOG_LEVEL=VERBOSE;-P;/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/extract-openfst-populate.cmake
+source_dir=/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-src
+work_dir=/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang
+url(s)=https://github.com/kkm000/openfst/archive/refs/tags/win/1.7.2.1.tar.gz
+hash=SHA256=e04e1dabcecf3a687ace699ccb43a8a27da385777a56e69da6e103344cc66bca
+      no_extract=
+
