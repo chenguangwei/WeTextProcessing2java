@@ -5,6 +5,7 @@ set(CMAKE_CXX_STANDARD 14)
 
 set(CMAKE_VERBOSE_MAKEFILE OFF)
 option(BUILD_TESTING "whether to build unit test" OFF)
+option(BUILD_JNI "whether to build Java JNI bindings" OFF)
 
 include(FetchContent)
 set(FETCHCONTENT_QUIET OFF)
@@ -36,4 +37,8 @@ add_subdirectory(bin)
 if(BUILD_TESTING)
   include(gtest)
   add_subdirectory(test)
+endif()
+
+if(BUILD_JNI)
+  add_subdirectory(java)
 endif()

@@ -1,0 +1,3 @@
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/openfst-populate.dir
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/edit_cache.dir
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/rebuild_cache.dir

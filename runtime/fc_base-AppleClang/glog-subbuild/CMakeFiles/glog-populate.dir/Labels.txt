@@ -1,0 +1,14 @@
+# Target labels
+ glog-populate
+# Source files and their labels
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/CMakeFiles/glog-populate
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/CMakeFiles/glog-populate.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/CMakeFiles/glog-populate-complete.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-build.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-configure.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-download.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-install.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-mkdir.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-patch.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-test.rule
+/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/glog-subbuild/glog-populate-prefix/src/glog-populate-stamp/glog-populate-update.rule

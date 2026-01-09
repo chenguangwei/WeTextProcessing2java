@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/openfst-populate"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/openfst-populate.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/CMakeFiles/openfst-populate-complete.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-build.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-configure.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-download.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-install.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-mkdir.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-patch.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-test.rule"
+		},
+		{
+			"file" : "/Users/chenguangwei/Documents/workspace/WeTextProcessing/runtime/fc_base-AppleClang/openfst-subbuild/openfst-populate-prefix/src/openfst-populate-stamp/openfst-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"openfst-populate"
+		],
+		"name" : "openfst-populate"
+	}
+}
