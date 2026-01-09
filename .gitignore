@@ -42,3 +42,6 @@ build/
 dist/
 tn/*.far
 itn/*.far
+itn/.gitignore
+tn/CLAUDE.md
+runtime/java/CLAUDE.md
